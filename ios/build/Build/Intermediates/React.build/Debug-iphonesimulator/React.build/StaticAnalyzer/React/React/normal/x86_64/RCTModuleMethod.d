@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTModuleMethod.m \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/CSSLayout/CSSLayout.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/CSSLayout/CSSMacros.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/miketran/WebstormProjects/ReactNativeRedux/node_modules/react-native/React/Base/RCTUtils.h
