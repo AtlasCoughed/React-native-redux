@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6c140518-f56a-47e2-aae8-ebc717046387" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.ios.js" afterPath="$PROJECT_DIR$/index.ios.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AlbumDetail.js" afterPath="$PROJECT_DIR$/src/components/AlbumDetail.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AlbumList.js" afterPath="$PROJECT_DIR$/src/components/AlbumList.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/CardSection.js" afterPath="$PROJECT_DIR$/src/components/CardSection.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,16 +45,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AlbumDetail.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AlbumDetail.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/AlbumDetail.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
-                <marker date="1489789433000" expanded="true" signature="100:274" ph="{...}" />
-                <marker date="1489789433000" expanded="true" signature="116:274" ph="&lt;View/&gt;" />
-                <marker date="1489789433000" expanded="true" signature="199:274" ph="&lt;Text/&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CardSection.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/CardSection.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,6 +98,7 @@
         <option value="$PROJECT_DIR$/index.ios.js" />
         <option value="$PROJECT_DIR$/src/components/AlbumList.js" />
         <option value="$PROJECT_DIR$/src/components/AlbumDetail.js" />
+        <option value="$PROJECT_DIR$/src/components/CardSection.js" />
       </list>
     </option>
   </component>
@@ -260,12 +268,12 @@
       <option name="presentableId" value="Default" />
       <updated>1489641813684</updated>
       <workItem from="1489641814892" duration="2061000" />
-      <workItem from="1489771378293" duration="6892000" />
+      <workItem from="1489771378293" duration="7035000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8953000" />
+    <option name="totallyTimeSpent" value="9096000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -420,12 +428,19 @@
     <entry file="file://$PROJECT_DIR$/src/components/AlbumDetail.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-            <marker date="1489789433000" expanded="true" signature="100:274" ph="{...}" />
-            <marker date="1489789433000" expanded="true" signature="116:274" ph="&lt;View/&gt;" />
-            <marker date="1489789433000" expanded="true" signature="199:274" ph="&lt;Text/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CardSection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
