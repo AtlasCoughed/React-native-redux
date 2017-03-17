@@ -1,11 +1,11 @@
 
 import React from 'react';
-import ReactNative from 'react-native';
+import { AppRegistry, Text } from 'react-native';
 
-const App = () = {
+const App = () => {
 	return (
-		<Text>Some Text</Text>
+		<Text> Some Text</Text>
 	);
-}
+};
 
-ReactNative.AppRegistry.registerComponent('albums', () => App);
+AppRegistry.registerComponent('albums', () => App);
